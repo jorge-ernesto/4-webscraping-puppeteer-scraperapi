@@ -1,0 +1,7 @@
+---- Notas ----
+
+Realiza Web Scraping en cualquier sitio web con ScraperAPI
+https://youtu.be/pvVlJY98IUw
+
+Codigo del Ejemplo
+https://github.com/FaztWeb/nodejs-scraperapi-puppeteer
